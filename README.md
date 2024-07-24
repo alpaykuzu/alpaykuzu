@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Alpay Kuzu</h1>
 <h3 align="center">A passionate Computer Engineering student from Turkey.</h3>
 
-- 🌱 I’m currently learning **Unity, Python**
 
 - 📫 How to reach me **alpaykuzu0@gmail.com**
 
